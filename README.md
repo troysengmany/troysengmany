@@ -1,6 +1,6 @@
 # Troy Sengmany
 
-Computer Engineering student at California State University, Sacramento focused on **embedded systems, hardware/software integration, applications engineering and technical engineering roles**.
+Computer Engineering student at California State University, Sacramento focused on **embedded systems, hardware/software integration, applications engineering and technical sales engineering roles**.
 
 I enjoy building systems that connect software to real hardware — from computer vision and serial communication to microcontrollers, PWM control, sensors, displays, and digital logic.
 
