@@ -35,6 +35,6 @@ Arduino/MAX7219 display project featuring custom 8x8 bitmap letters, scrolling t
 - Studying Computer Engineering at Sacramento State — expected graduation Fall 2027
 - Working as an Apple Technical Specialist
 - Building embedded and hardware/software integration projects
-- Developing stronger C/C++ and embedded-systems skills
+- Building deeper C/C++ and embedded-systems experience through coursework and projects
 - Interested in **embedded systems, applications engineering, field applications engineering, and technical sales engineering**
 - Open to **Summer 2027 internship opportunities**
